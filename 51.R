@@ -1,0 +1,6 @@
+A <- matrix(1:100, nrow=6) 
+det(A)
+solve(A)
+B <- matrix(1:1000, nrow=6)
+det(B)
+solve(B)
