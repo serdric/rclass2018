@@ -1,0 +1,8 @@
+Package: Friedman   
+Title: Rebound statistics
+Version 0.9
+Author: "Serdric Acceus ,<serdric@mail.usf.edu> [aut, cre]"
+Description: What's the highest rebound percentage of the Defensive Player of the Year in NBA history?
+License: CC0
+Lazydata: true
+
